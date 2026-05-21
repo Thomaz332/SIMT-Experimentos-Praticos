@@ -1,0 +1,15 @@
+# LaTeX source and build artifacts
+artigo_simt_final.tex
+
+# LaTeX build artifacts
+*.aux
+*.log
+*.out
+*.toc
+*.lof
+*.lot
+*.fls
+*.fdb_latexmk
+*.synctex.gz
+*.bbl
+*.blg
