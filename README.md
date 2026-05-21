@@ -58,8 +58,6 @@ Compara o uso de memória global versus *shared memory* com *tiling* (blocos 16�
 GPU: NVIDIA Tesla T4  •  CUDA 13.0  •  Driver 580.82.07
 ```
 
-![Gráfico comparativo de desempenho dos experimentos SIMT](resultados_simt.png)
-
 ---
 
 ## Como executar
