@@ -1,7 +1,6 @@
-# LaTeX source and build artifacts
+# LaTeX source, compiled output and build artifacts
 artigo_simt_final.tex
-
-# LaTeX build artifacts
+artigo_simt_final.pdf
 *.aux
 *.log
 *.out
