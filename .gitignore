@@ -1,3 +1,6 @@
+# LaTeX source and build artifacts
+artigo_simt_final.tex
+
 # LaTeX build artifacts
 *.aux
 *.log
